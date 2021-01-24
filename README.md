@@ -11,4 +11,4 @@ Read the data from text box using javascript DOM and populate that message back 
 Check app.js to understand how javascript DOM works with HTML
 
 # Demo
-Visit https://madblocksgit.github.io/mta_javascript_submit_response/index
+Visit https://madblocksgit.github.io/mta-javascript-pass-message/
